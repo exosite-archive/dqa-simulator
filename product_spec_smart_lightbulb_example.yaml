@@ -2,11 +2,11 @@
 
 resources:
 -   alias: temperature
-    format: number
+    format: float
 -   alias: humidity
-    format: number
+    format: float
 -   alias: state
-    format: number
+    format: integer
     initial: 0
 -   alias: uptime
-    format: number
+    format: integer
